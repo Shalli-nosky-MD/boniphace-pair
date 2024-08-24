@@ -62,9 +62,9 @@ router.get('/', async (req, res) => {
 ━━━━━━━━━━━❀˖°❀˖°❀˖°┗━━━━━━━━━━━             
 || *_👌 hello guys this is youre session id_*
 || *_✅ you will need it to upload on all bots of msela chui md_*
-|| *_📡 currently working on Boniphace Md_*
+|| *_📡 currently working on shallinosky md_*
 || *_📌 join all of whatsapp group for our updates daily_*
-||   |❀˖|*group* : https://chat.whatsapp.com/HdrwMccSFIaB5Zi7s9BzN9
+||   |❀˖|*channel* : https://whatsapp.com/channel/0029VaaShag4CrfjCj8wPz1E
 || *_Don't Forget To Give Star To My Repo_*`
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
